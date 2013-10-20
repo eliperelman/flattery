@@ -145,7 +145,7 @@ footer a:hover { opacity: 1; }
 
 .item {
     background-repeat: no-repeat;
-    background-image: url(img/items.png);
+    background-image: url(../img/items.png);
     width: 32px;
     height: 32px;
     display: inline-block;
